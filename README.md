@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Maxime</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenesur&label=Profile%20views&color=0e75b6&style=flat" alt="thenesur" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenesur" alt="thenesur" /></a> </p>
+
+- 🔭 My first project [Eolia](https://github.com/TheNesur/AERO-Application)
+
+- ⚡ Languages **C++, HTML, CSS, JS, TS, PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
