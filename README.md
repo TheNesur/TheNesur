@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenesur&label=Profile%20views&color=0e75b6&style=flat" alt="thenesur" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenesur&theme=gitdimmed" alt="thenesur" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenesur&theme=dracula" alt="thenesur" /></a> </p>
 
 - 🔭 My first project [Eolia](https://github.com/TheNesur/AERO-Application)
 
