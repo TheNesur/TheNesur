@@ -9,7 +9,7 @@
 
 - ✨ Projet QT [Conway's Game of Life](https://github.com/TheNesur/Game-of-the-Life)
 
-- ⚡ Languages C++, Rust, HTML, CSS, JS, TS, PHP **C++, Rust, HTML, CSS, JS, TS, PHP**
+- ⚡ Languages C++, Rust, HTML, CSS, JS, TS, PHP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
